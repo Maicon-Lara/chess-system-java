@@ -1,8 +1,10 @@
 applyBackground=false
+codetogether.announce.displayed=true
 configurationInstallLocation=/C\:/eclipse/
+ct.reengagement.display.after=1736437604074
 eclipse.preferences.version=1
 iconcolormode=primary
-last.download.attempt.time=1725479605812
-lastConfiguration=1725550188762
+last.download.attempt.time=1725896790121
+lastConfiguration=1725896779123
 newinstall=true
 workbench.theme=Dark Gray
