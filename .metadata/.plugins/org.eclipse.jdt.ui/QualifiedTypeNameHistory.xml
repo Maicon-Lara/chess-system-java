@@ -15,5 +15,6 @@
     <fullyQualifiedTypeName name="chess.pieces.Knight"/>
     <fullyQualifiedTypeName name="chess.ChessMatch"/>
     <fullyQualifiedTypeName name="boardgame.Position"/>
+    <fullyQualifiedTypeName name="chess.pieces.Pawn"/>
     <fullyQualifiedTypeName name="chess.ChessPiece"/>
 </qualifiedTypeNameHistroy>
